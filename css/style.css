@@ -1,0 +1,660 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+	font-family: sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+}
+a ,a:hover{
+	text-decoration: none;
+}
+/************************************/
+/******Top header css code start*****/
+/************************************/
+.top-header{
+	width: 100%;
+	padding: 6px 0px;
+	background: #f5f7fa;
+	border-bottom: 1px solid #e6e9ed;
+}
+.top-header .top-header-inner{
+	width: 100%;
+	margin: 0px;
+}
+.top-header .top-header-inner ul{
+    padding: 0px;
+    margin: 0px;
+}
+.top-header .top-header-inner ul li{
+	list-style: none;
+	display: inline-block;
+	margin-right: 18px;
+}
+.top-header .top-header-inner ul li a{
+	font-size: 14px;
+	color: #506a85;
+}
+.top-header .top-header-inner ul li a i{
+	margin-right: 5px;
+}
+.social-top-inner{
+	width: 100%;
+	margin: 0px;
+	text-align: right;
+}
+.social-top-inner ul{
+	margin: 0px;
+}
+.social-top-inner li{
+
+}
+.social-top-inner ul li{
+	list-style: none;
+	display: inline-block;
+	font-size: 16px;
+}
+.social-top-inner ul li a{
+	margin-right: 17px;
+	color: #506a85;
+}
+.social-top-inner ul li a:hover{
+	color: #00bc9c;
+}
+/************************************/
+/*******Top header css code end******/
+/************************************/
+
+/************************************/
+/**********nav css code start********/
+/************************************/
+.bg-light {
+	width: 100%;
+    background-color: #ffffff;
+    padding: 10px 0px;
+}
+/************************************/
+/*************nav css code end*******/
+/************************************/
+
+/************************************/
+/****Banner section css code start***/
+/************************************/
+
+.navbar-light .navbar-nav .active>.nav-link{
+	width: 100%;
+	font-size: 15px;
+    font-weight: 600;
+    color: #506a85;
+    text-transform: uppercase;
+}
+.navbar-light .navbar-nav .nav-link {
+	width: 100%;
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 13px;
+    color: #506a85;
+    text-transform: uppercase;
+}
+.navbar-brand img{
+	margin-right: 37px;
+}
+.form-inline i{
+	font-size: 16px;
+	margin-right: 17px;
+	color: #506a85;
+}
+.banner-section .container-fluid{
+    padding: 0px;
+}
+.carousel-caption{
+    margin-bottom: 10%;
+}
+.banner-inner h1{
+    font-size: 76px;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+.banner-inner p{
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #a3b1bf;
+}
+.banner-inner .btn-info{
+	font-size: 15px;
+    background: #00bc9c;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: 1px solid #00bc9c;
+    padding: 7px 34px;
+    margin-top: 30px;
+}
+.banner-inner .btn-info:hover{
+	background: transparent;
+    border: 1px solid #00bc9c;
+    transition: 1s;
+}
+.fa-search:hover{
+	color: #00bc9c;
+}
+/************************************/
+/*****Bnner section css code end*****/
+/************************************/
+
+
+/************************************/
+/**Branding section css code start***/
+/************************************/
+.branding-section{
+	width: 100%;
+	padding: 65px 0px;
+}
+.branding h1{
+	width: 100%;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+    color: #506a85;
+}
+.branding p {
+	width: 100%;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #506a85;
+    margin: 10px 0px 60px;
+}
+.media i{
+	font-size: 50px;
+    color: #00bc9c;
+    margin-right: 22px;
+}
+.media-body .media-heading{
+	width: 100%;
+	font-size: 22px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    color: #506a85;
+}
+.media-body p{
+	width: 100%;
+	font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #96a5b4;
+}
+/************************************/
+/***Branding section css code end**/
+/************************************/
+
+/************************************/
+/***Figure section css code start****/
+/************************************/
+.figure-section{
+	width: 100%;
+	background: #f2f5f7;
+	padding: 65px 0px;
+}
+.figure-inner h1{
+	width: 100%;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+    color: #506a85;
+}
+.figure-inner p{
+	width: 100%;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #506a85;
+}
+.figure-in{
+	width: 100%;
+}
+.figure-in img{
+	width: 100%;
+}
+.figure{
+	width: 100%;
+	background: #fff;
+	margin: 40px 0px 60px;
+	border-bottom: 1px solid #e6e9ed;
+}
+.fig-in{
+	width: 100%;
+    margin: 30px 0px;
+}
+.figure .fig-in h5{
+	width: 100%;
+    font-size: 21px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+    color: #506a85;
+}
+.figure .fig-in p{
+	width: 100%;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #506a85;
+}
+/************************************/
+/*****Figure section css code end****/
+/************************************/
+
+/************************************/
+/*****Work section css code start****/
+/************************************/
+.work-section{
+	width: 100%;
+	padding: 65px 0px;
+}
+.work-section h1{
+	width: 100%;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+    color: #506a85;
+}
+.work-section p{
+	width: 100%;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #506a85;
+}
+.work-inner .btn-info{
+	font-size: 14px;
+    background: #00bc9c;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: 1px solid #00bc9c;
+    padding: 6px 26px;
+}
+.work-inner .btn-info:hover{
+	color: #00bc9c;
+	background: transparent;
+    border: 1px solid #00bc9c;
+    transition: 1s;
+}
+/************************************/
+/*****Work section css code end******/
+/************************************/
+
+/************************************/
+/***Footer top section css code start**/
+/************************************/
+.footer-top{
+	width: 100%;
+	background: #2f4052;
+	padding: 60px 0px;
+}
+.foot-top{
+	width: 100%;
+	font-size: 17px;
+    font-weight: 600;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	margin-bottom: 25px;
+}
+.foot-topper{
+	width: 100%;
+	font-size: 17px;
+    font-weight: 600;
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	margin-bottom: 18px;
+}
+.foot-img{
+	margin-bottom: 4px;
+}
+.footer-img img {
+    margin-bottom: 18px;
+}
+.top-footer-in p{
+	font-size: 14px;
+    color: #a3b1bf;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.top-footer-icon{
+	width: 100%;
+	margin: 0px;
+}
+.top-footer-icon ul li{
+	list-style: none;
+	margin-right: 20px;
+	padding: 1px 0px;
+}
+.top-footer-icon ul li a{
+	font-size: 14px;
+	color: #a3b1bf;
+}
+.top-footer-icon ul li a i{
+	margin-right: 12px;
+	font-size: 20px;
+}
+.top-footer-in a{
+	font-size: 14px;
+    font-weight: 600;
+    color: #a3b1bf;
+}
+.top-footer-in a i{
+	font-size: 12px;
+    margin-left: 2px;
+    color: #a3b1bf;
+}
+.fa-envelope-o:before {
+    font-size: 14px;
+}
+.form-control{
+	background: #4e5c6c;
+    border: #4e5c6c;
+}
+.input-group-append {
+    margin-left: -1px;
+    background: #00bc9c;
+}
+.input-group-append .btn-outline-secondary{
+	color: #fff;
+	font-size: 14px;
+    border: #00bc9c;
+}
+.input-group-append .btn-outline-secondary:hover{
+	color: #fff;
+	background: #00bc9c;
+}
+/************************************/
+/***Footer top section css code end**/
+/************************************/
+
+/************************************/
+/***footer-bottom css code start*****/
+/************************************/
+.footer-bottom{
+	width: 100%;
+	background: #283645;
+	padding: 15px 0px 0px;
+}
+.footer-bottom-inner p{
+	width: 100%;
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #506a85;
+    margin: 0px;
+    padding: 0px;
+}
+.footer-bottom-inne{
+	text-align: right;
+}
+.footer-bottom-inne p a{
+	width: 100%;
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #506a85;
+    padding: 8px;
+}
+.footer-bottom-inne p a:hover{
+    color: #fff;
+}
+/************************************/
+/******footer-bottom css code end****/
+/************************************/
+
+/****************************/
+/*****plugin code start******/
+/****************************/
+.isStuck{
+    left:0px;
+    width:100%;
+    background: blue;
+}
+.navbar-wrapper{
+  margin-top:0px;
+  position: relative;
+  z-index: 15;
+  width: 100%;
+}
+/****************************/
+/*****plugin code end******/
+/****************************/
+
+/************************************/
+/*****Css media query code start*****/
+/************************************/
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+.top-header .top-header-inner {
+    text-align: center;
+}
+.social-top-inner {
+    text-align: center;
+}
+.top-header {
+    padding: 16px 0px 14px;
+}
+.social-top-inner ul li {
+    padding: 0px 6px;
+}
+.navbar-brand img {
+    margin-left: 13px;
+}
+.navbar-light .navbar-toggler {
+    color: #506a85;
+    border-color: #506a85;
+    margin-right: 13px;
+}
+.navbar-light .navbar-nav .active>.nav-link {
+    font-size: 16px;
+    background: #506a85;
+    color: #fff;
+    padding: 12px;
+    margin: 8px 0px 2px;
+}
+.navbar-light .navbar-nav .active>.nav-link:hover {
+	background: #283645;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 16px;
+    background: #506a85;
+    color: #fff;
+    padding: 12px;
+    margin: 0px 0px 2px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    background: #283645;
+    color: #fff;
+}
+.form-inline i {
+    margin-left: 15px;
+}
+.banner-inner {
+    width: 100%;
+    padding: 88px 0px;
+}
+.banner-inner h1 {
+    width: 100%;
+    font-size: 55px;
+}
+.banner-inner p {
+    padding: 3px;
+}
+.branding-section {
+    width: 100%;
+    padding: 58px 0px;
+}
+.banner-inner .btn-info {
+    font-size: 13px;
+    padding: 7px 13px;
+}
+.branding h1 {
+    width: 100%;
+    font-size: 27px;
+}
+.branding p {
+    width: 100%;
+    font-size: 16px;
+    margin: 10px 0px 40px;
+    padding: 20px;
+}
+.media i {
+    font-size: 42px;
+    margin-right: 15px;
+}
+.media-body .media-heading {
+    width: 100%;
+    font-size: 19px;
+}
+.media-in{
+	margin-left: 6px;
+}
+.media-img i{
+	font-size: 50px;
+	margin-left: 9px;
+}
+.figure-inner h1 {
+    font-size: 27px;
+}
+.figure-inner p {
+    padding: 10px;
+    margin-bottom: 35px;
+}
+.figure .fig-in h5 {
+    font-size: 18px;
+}
+.figure {
+    margin: 0px 0px 60px;
+}
+.work-section h1 {
+    font-size: 28px;
+}
+.work-section p {
+    padding: 10px;
+}
+.work-inner .btn-info {
+    font-size: 13px;
+    padding: 6px 16px;
+}
+.footer-bottom-inner p {
+    text-align: center;
+}
+.footer-bottom-inne {
+    text-align: center;
+    padding: 12px 0px 0px;
+}
+.footer-img img {
+    margin-bottom: 11px;
+}
+.foot-top {
+    margin-bottom: 16px;
+}
+.foot-topper {
+    margin-bottom: 6px;
+}
+.top-footer-in{
+	margin-bottom: 40px;
+}
+.footer-top {
+    padding: 60px 0px 11px;
+}
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 768px) {
+  
+  .navbar-light .navbar-nav .active>.nav-link {
+    font-size: 17px;
+    background: #506a85;
+    color: #fff;
+    padding: 12px;
+    margin: 8px 0px 2px;
+}
+.navbar-light .navbar-nav .active>.nav-link:hover {
+	background: #283645;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 17px;
+    background: #506a85;
+    color: #fff;
+    padding: 12px;
+    margin: 0px 0px 2px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    background: #283645;
+    color: #fff;
+}
+.media-body p {
+    font-size: 8px;
+}
+.figure .fig-in h5 {
+    font-size: 18px;
+}
+.footer-bottom-inne p a {
+    padding: 0px;
+}
+.top-footer-in p {
+    font-size: 12px;
+}
+.foot-img img {
+    width: 48%;
+}
+.top-footer-icon ul li a {
+    font-size: 11px;
+}
+.top-footer-icon ul li {
+    padding: 0px;
+}
+.footer-top {
+    padding: 50px 0px 30px;
+}
+.input-group-append .btn-outline-secondary:hover {
+    font-size: 10px;
+}
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 769px) and (max-width: 1024px){
+.navbar-brand img {
+    margin-right: 20px;
+}
+.navbar-light .navbar-nav .nav-link {
+    margin-right: 7px;
+}
+.media-body p {
+    width: 100%;
+    font-size: 12px;
+}
+.foot-img img {
+    width: 49%;
+}
+.footer-top {
+    padding: 60px 0px 40px;
+}
+}
+
+/************************************/
+/*****Css media query code start*****/
+/************************************/
